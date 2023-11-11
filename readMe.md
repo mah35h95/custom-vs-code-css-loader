@@ -36,7 +36,7 @@ Add the following like to your VsCode User settings file
 
 Define the following editor's font settings in your VsCode User settings file
 
-```json
+```jsonc
 "editor.fontFamily": "Monaspace Xenon",
 "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'calt', 'dlig'", // For Monaspace fonts
 "editor.fontWeight": 200,
