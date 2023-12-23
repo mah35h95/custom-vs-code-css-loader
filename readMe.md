@@ -44,6 +44,7 @@ Define the following editor's font settings in your VsCode User settings file
 "editor.fontSize": 12, // Optional: Define Font size
 "editor.tokenColorCustomizations": { // Optional: Define each token elements font style and color
 		// "variables": "#dc77ee",
+		"functions": "#dc77ee",
 		"textMateRules": [
 			{
 				"scope": [
