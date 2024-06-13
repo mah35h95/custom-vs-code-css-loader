@@ -1,22 +1,21 @@
 .mtki {
 	/* for all italic tokens */
-	font-family: 'Monaspace Argon';
+	font-family: "Monaspace Argon";
 }
 
 .mtkb {
 	/* for all bold tokens */
-	font-family: 'Monaspace Krypton';
+	font-family: "Monaspace Krypton";
 }
 
 .mtk17 {
 	/* strings */
 	font-style: italic;
-	font-family: 'Monaspace Neon';
+	font-family: "Monaspace Neon";
 }
 
 .mtk19 {
 	/* comments */
-	color: #af678d;
 	font-style: normal !important;
-	font-family: 'Monaspace Radon';
+	font-family: "Monaspace Radon" !important;
 }
